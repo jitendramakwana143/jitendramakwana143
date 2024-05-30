@@ -1,6 +1,6 @@
 
  
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"> 
+<img align="center" alt="Coding" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"> 
  <h1 align="center">Hi 👋, I'm jitendra makwana</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."> -->
