@@ -1,8 +1,9 @@
 
- https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263
+ 
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"> 
  <h1 align="center">Hi 👋, I'm jitendra makwana</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
- <div style="padding-top:57.333%;position:relative;"><iframe src="https://gifer.com/embed/3AyY" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendramakwana143&label=Profile%20views&color=0e75b6&style=flat" alt="jitendramakwana143" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jitendrama23861" target="blank"><img src="https://img.shields.io/twitter/follow/jitendrama23861?logo=twitter&style=for-the-badge" alt="jitendrama23861" /></a> </p>
