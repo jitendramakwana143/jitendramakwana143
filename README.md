@@ -4,8 +4,8 @@
  <h1 align="center">Hi 👋, I'm jitendra makwana</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
- <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/RbDKaczqWovIugyJmW">
-
+ 
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="271" alt="Looney Tunes" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendramakwana143&label=Profile%20views&color=0e75b6&style=flat" alt="jitendramakwana143" /> </p>
 
